@@ -1,4 +1,4 @@
-** TIMESTAMP VERSION FOR HISTORICAL PURPOSES **
+## **TIMESTAMP VERSION FOR HISTORICAL PURPOSES**
 
 ![logo](docs/assets/tf.net.logo.png)
 
